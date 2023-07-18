@@ -1,0 +1,345 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] /home/nmurgor/.gradle/caches/transforms-3/6d2ccefbd46df9b3fcbdfb2dbcf4c0be/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/abaac15efeaacf7c053ea392bb1facb6/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.6.0] /home/nmurgor/.gradle/caches/transforms-3/524e29a915b36a842d68532d8af20ed8/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nmurgor/.gradle/caches/transforms-3/7e69b97d8880bb0d7eda434ad474da26/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/66c8d48c834eddde4925982e2dd9221e/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/bdadf26c4fdb8931b0556be582cdf883/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0a4e3a12b4b96176506ad6d81e1ebcc7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/55ce658849d6b5e2543105aec056d8f1/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/nmurgor/.gradle/caches/transforms-3/f31c9db17a29d5931dec46ee9f7f5a1b/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/d27df0c8a82b10f83f40790b71fb6043/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.activity:activity:1.2.4] /home/nmurgor/.gradle/caches/transforms-3/9504e96b31263bee974210fb605fcb3d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/162a227cb2125e5b72a192057ba8b0cc/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/2f6577c3eb536c0f184f13b0cfa87343/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/f21fa36802a2b8be75d9a1db39fcfe38/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/33afb56e1d7474672a6078414ebfcf9e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/1d2d285f8594c32eb7667f029739832d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/319aad951639e6dfeb44b571a374edc1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/nmurgor/.gradle/caches/transforms-3/5cca3fbfa1f2fc026e777a22e15a319f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/4bd2e96596ee420ad4e55d7c8b12cb2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/e0005936ffc4521f7e1a702bbd1ddc57/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/1f3286968d256a1ed2055da8bc66444c/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/a7e13800f82658bb9df9bd7d1f9aa733/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/8eecdf9aa6b342e310699434f68fb394/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/9bdf3103bc76f80b56facb83771b74a8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/6395d86fc27bfbbc86ef617be490c57e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/5076cb6bd6cf1a30c7b2f280942c7c10/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/54f5cea01e400181e08600f44db5ff43/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0dd0eb2f1bd391647157769bf2682dcd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/ef6c69371e93d08c84134e767eab7c78/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/bc8e6d89ec5f01c9b383224d26ccbb88/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/768ced582130b90ce25d35b8bc3bfdcd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/ecc25b9d04160d612a9585ca7819e0a9/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/ec2a9ce0efe3108e9bf4f5ae7ed000e1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/0a890a4bb16770d537021e739591b171/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/e18ca1d790ed69d131d2869ef5c5b169/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/075cdd65d852fe63bdbe23f4cfc99d51/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/c3986e6f5410782d3261440aa7a752af/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/bf4680121a2c45d88163e341788b098d/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/d6acd3f97cb0579e0c9464ca2a23cc5c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/882e73a9b6ee1dd82c29e20c0ae67d2b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0835e85fb584505520ed0e9a5001cd7b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0b8c116da2f1305839ec77547e0f9c64/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/9411c764ffe86b9f2a6c4c920e27d06b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/cc57ed851799cefee147ae6f466b5a2c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/636de49d743d4ef6aad840c8960a78bd/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/50a15df7413f4d5ea1c0788f2fd337f0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/d8b0c79fc149304be6734ff9948e8070/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nmurgor/.gradle/caches/transforms-3/f7b5ef2c7638a06652e1d068ac39857b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/8006f846be8659bfe4446d7ecaf90056/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nmurgor/.gradle/caches/transforms-3/4096df0bf556527fd3e7cfc9baec4e80/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/0525a178442881d8c59b8e9666a64c34/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+	package
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:18:5-35
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:1-52:12
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:20:5-50:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.android.material:material:1.6.0] /home/nmurgor/.gradle/caches/transforms-3/524e29a915b36a842d68532d8af20ed8/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] /home/nmurgor/.gradle/caches/transforms-3/524e29a915b36a842d68532d8af20ed8/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nmurgor/.gradle/caches/transforms-3/7e69b97d8880bb0d7eda434ad474da26/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nmurgor/.gradle/caches/transforms-3/7e69b97d8880bb0d7eda434ad474da26/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/bc8e6d89ec5f01c9b383224d26ccbb88/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/bc8e6d89ec5f01c9b383224d26ccbb88/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/d6acd3f97cb0579e0c9464ca2a23cc5c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/d6acd3f97cb0579e0c9464ca2a23cc5c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/bc8e6d89ec5f01c9b383224d26ccbb88/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:26:9-46
+activity#com.example.dogglers.VerticalListActivity
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:27:9-31:20
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:27:19-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:28:13-30:49
+	android:value
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:30:17-46
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:29:17-63
+activity#com.example.dogglers.HorizontalListActivity
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:32:19-57
+activity#com.example.dogglers.GridListActivity
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:37:19-51
+activity#com.example.dogglers.MainActivity
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:42:9-49:20
+	android:exported
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.MAIN
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml:47:27-74
+uses-sdk
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.1] /home/nmurgor/.gradle/caches/transforms-3/6d2ccefbd46df9b3fcbdfb2dbcf4c0be/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] /home/nmurgor/.gradle/caches/transforms-3/6d2ccefbd46df9b3fcbdfb2dbcf4c0be/transformed/jetified-viewbinding-7.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/abaac15efeaacf7c053ea392bb1facb6/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/abaac15efeaacf7c053ea392bb1facb6/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /home/nmurgor/.gradle/caches/transforms-3/524e29a915b36a842d68532d8af20ed8/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] /home/nmurgor/.gradle/caches/transforms-3/524e29a915b36a842d68532d8af20ed8/transformed/material-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nmurgor/.gradle/caches/transforms-3/7e69b97d8880bb0d7eda434ad474da26/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nmurgor/.gradle/caches/transforms-3/7e69b97d8880bb0d7eda434ad474da26/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/66c8d48c834eddde4925982e2dd9221e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/66c8d48c834eddde4925982e2dd9221e/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/bdadf26c4fdb8931b0556be582cdf883/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/bdadf26c4fdb8931b0556be582cdf883/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0a4e3a12b4b96176506ad6d81e1ebcc7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0a4e3a12b4b96176506ad6d81e1ebcc7/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/55ce658849d6b5e2543105aec056d8f1/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/55ce658849d6b5e2543105aec056d8f1/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/nmurgor/.gradle/caches/transforms-3/f31c9db17a29d5931dec46ee9f7f5a1b/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/nmurgor/.gradle/caches/transforms-3/f31c9db17a29d5931dec46ee9f7f5a1b/transformed/jetified-activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/d27df0c8a82b10f83f40790b71fb6043/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/d27df0c8a82b10f83f40790b71fb6043/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/nmurgor/.gradle/caches/transforms-3/9504e96b31263bee974210fb605fcb3d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/nmurgor/.gradle/caches/transforms-3/9504e96b31263bee974210fb605fcb3d/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/162a227cb2125e5b72a192057ba8b0cc/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/162a227cb2125e5b72a192057ba8b0cc/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/2f6577c3eb536c0f184f13b0cfa87343/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/2f6577c3eb536c0f184f13b0cfa87343/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/f21fa36802a2b8be75d9a1db39fcfe38/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/f21fa36802a2b8be75d9a1db39fcfe38/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/33afb56e1d7474672a6078414ebfcf9e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/33afb56e1d7474672a6078414ebfcf9e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/1d2d285f8594c32eb7667f029739832d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/1d2d285f8594c32eb7667f029739832d/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/319aad951639e6dfeb44b571a374edc1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/319aad951639e6dfeb44b571a374edc1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/nmurgor/.gradle/caches/transforms-3/5cca3fbfa1f2fc026e777a22e15a319f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/nmurgor/.gradle/caches/transforms-3/5cca3fbfa1f2fc026e777a22e15a319f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/4bd2e96596ee420ad4e55d7c8b12cb2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/4bd2e96596ee420ad4e55d7c8b12cb2e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/e0005936ffc4521f7e1a702bbd1ddc57/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/e0005936ffc4521f7e1a702bbd1ddc57/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/1f3286968d256a1ed2055da8bc66444c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/1f3286968d256a1ed2055da8bc66444c/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/a7e13800f82658bb9df9bd7d1f9aa733/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/a7e13800f82658bb9df9bd7d1f9aa733/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/8eecdf9aa6b342e310699434f68fb394/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/8eecdf9aa6b342e310699434f68fb394/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/9bdf3103bc76f80b56facb83771b74a8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/9bdf3103bc76f80b56facb83771b74a8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/6395d86fc27bfbbc86ef617be490c57e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/6395d86fc27bfbbc86ef617be490c57e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/5076cb6bd6cf1a30c7b2f280942c7c10/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/5076cb6bd6cf1a30c7b2f280942c7c10/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/54f5cea01e400181e08600f44db5ff43/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/54f5cea01e400181e08600f44db5ff43/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0dd0eb2f1bd391647157769bf2682dcd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0dd0eb2f1bd391647157769bf2682dcd/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/ef6c69371e93d08c84134e767eab7c78/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/ef6c69371e93d08c84134e767eab7c78/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/bc8e6d89ec5f01c9b383224d26ccbb88/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/nmurgor/.gradle/caches/transforms-3/bc8e6d89ec5f01c9b383224d26ccbb88/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/768ced582130b90ce25d35b8bc3bfdcd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/768ced582130b90ce25d35b8bc3bfdcd/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/ecc25b9d04160d612a9585ca7819e0a9/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/ecc25b9d04160d612a9585ca7819e0a9/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/ec2a9ce0efe3108e9bf4f5ae7ed000e1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/ec2a9ce0efe3108e9bf4f5ae7ed000e1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/0a890a4bb16770d537021e739591b171/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/0a890a4bb16770d537021e739591b171/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/e18ca1d790ed69d131d2869ef5c5b169/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/e18ca1d790ed69d131d2869ef5c5b169/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/075cdd65d852fe63bdbe23f4cfc99d51/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/075cdd65d852fe63bdbe23f4cfc99d51/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/c3986e6f5410782d3261440aa7a752af/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/c3986e6f5410782d3261440aa7a752af/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/bf4680121a2c45d88163e341788b098d/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/bf4680121a2c45d88163e341788b098d/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/d6acd3f97cb0579e0c9464ca2a23cc5c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nmurgor/.gradle/caches/transforms-3/d6acd3f97cb0579e0c9464ca2a23cc5c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/882e73a9b6ee1dd82c29e20c0ae67d2b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/882e73a9b6ee1dd82c29e20c0ae67d2b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0835e85fb584505520ed0e9a5001cd7b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0835e85fb584505520ed0e9a5001cd7b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0b8c116da2f1305839ec77547e0f9c64/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/0b8c116da2f1305839ec77547e0f9c64/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/9411c764ffe86b9f2a6c4c920e27d06b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/9411c764ffe86b9f2a6c4c920e27d06b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/cc57ed851799cefee147ae6f466b5a2c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/cc57ed851799cefee147ae6f466b5a2c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/636de49d743d4ef6aad840c8960a78bd/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/636de49d743d4ef6aad840c8960a78bd/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/50a15df7413f4d5ea1c0788f2fd337f0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/50a15df7413f4d5ea1c0788f2fd337f0/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/d8b0c79fc149304be6734ff9948e8070/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/d8b0c79fc149304be6734ff9948e8070/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nmurgor/.gradle/caches/transforms-3/f7b5ef2c7638a06652e1d068ac39857b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nmurgor/.gradle/caches/transforms-3/f7b5ef2c7638a06652e1d068ac39857b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/8006f846be8659bfe4446d7ecaf90056/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/nmurgor/.gradle/caches/transforms-3/8006f846be8659bfe4446d7ecaf90056/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nmurgor/.gradle/caches/transforms-3/4096df0bf556527fd3e7cfc9baec4e80/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nmurgor/.gradle/caches/transforms-3/4096df0bf556527fd3e7cfc9baec4e80/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/0525a178442881d8c59b8e9666a64c34/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nmurgor/.gradle/caches/transforms-3/0525a178442881d8c59b8e9666a64c34/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nmurgor/AndroidStudioProjects/DogglersApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.4.1] /home/nmurgor/.gradle/caches/transforms-3/7156d730581db6ab6be816663843833b/transformed/jetified-fragment-testing-1.4.1/AndroidManifest.xml:34:13-36:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/nmurgor/.gradle/caches/transforms-3/5088ca7dabc86f4e562a79d9aff85233/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/845f593427f530add0450299cae3cd1b/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nmurgor/.gradle/caches/transforms-3/614e314ce2e30642c47f9901b1909680/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nmurgor/.gradle/caches/transforms-3/17695e6d574b0f0810b0bd64cdb10c88/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
