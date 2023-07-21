@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // Initialize data
         val myDataSet = DataSource().loadAffirmations()
+        // get recyclerView
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         recyclerView.adapter = ItemAdapter(this, myDataSet)
         // we use this to improve performance if you know that content do not change the size of the layout of the RecyclerView

@@ -5,6 +5,7 @@ import com.naftalimurgor.recyclerview.model.Affirmation
 
 class DataSource {
     fun loadAffirmations(): List<Affirmation> {
+        // a dummy data source
         return listOf<Affirmation>(
             Affirmation(R.string.affirmation1, R.drawable.image1),
             Affirmation(R.string.affirmation2, R.drawable.image2),
@@ -15,6 +16,6 @@ class DataSource {
             Affirmation(R.string.affirmation8, R.drawable.image7),
             Affirmation(R.string.affirmation9, R.drawable.image8),
             Affirmation(R.string.affirmation10, R.drawable.image9),
-            )
+        )
     }
 }

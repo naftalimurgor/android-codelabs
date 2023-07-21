@@ -17,6 +17,7 @@ package com.example.wordsapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.wordsapp.databinding.ActivityMainBinding
@@ -25,6 +26,7 @@ import com.example.wordsapp.databinding.ActivityMainBinding
  * Main Activity and entry point for the app. Displays a RecyclerView of letters.
  */
 class MainActivity : AppCompatActivity() {
+    private var isLinearLayout = true
     private lateinit var recyclerView: RecyclerView
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -36,6 +38,14 @@ class MainActivity : AppCompatActivity() {
         recyclerView = binding.recyclerView
         // Sets the LinearLayoutManager of the recyclerview
         recyclerView.layoutManager = LinearLayoutManager(this)
+        recyclerView.adapter = LetterAdapter()
+    }
+
+    private fun chooseLayout() {
+        if(isLinearLayout)
+            recyclerView.layoutManager = LinearLayoutManager(this)
+        else recyclerView.layoutManager = GridLayoutManager(this, 4)
+
         recyclerView.adapter = LetterAdapter()
     }
 

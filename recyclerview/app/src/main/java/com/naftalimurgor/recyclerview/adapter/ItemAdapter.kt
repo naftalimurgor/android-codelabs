@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.naftalimurgor.recyclerview.R
 import com.naftalimurgor.recyclerview.model.Affirmation
 
-// the Adapter needs ifnormation about how to resolve the string resources, this and other info
+// the Adapter needs information about how to resolve the string resources, this and other info
 // is stored inside Context object instance, that can be pased
 class ItemAdapter(private val context: Context, private val dataset: List<Affirmation>) :
     RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
@@ -25,9 +25,9 @@ class ItemAdapter(private val context: Context, private val dataset: List<Affirm
     }
 
 
-    // onCreateViewHolder method is called by layout manager to create new view olders for the RecyclerView
+    // onCreateViewHolder method is called by layout manager to create new view holders for the RecyclerView
     // Returns a ViewHolder object
-    // Takes parent context which is the view gorup which item will be attached as a child
+    // Takes parent context which is the view group which item will be attached as a child
     // The parent is the Recyclerview
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
         // obtain an instance of LayoutInflater from the provided context(context of parent)
