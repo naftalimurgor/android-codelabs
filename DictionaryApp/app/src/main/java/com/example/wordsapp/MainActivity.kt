@@ -27,7 +27,18 @@ import com.example.wordsapp.databinding.ActivityMainBinding
 
 /**
  * Main Activity and entry point for the app. Displays a RecyclerView of letters.
+ * Explicit intents are used to navigate to specific activities in your app
+ * Implicit intents correspond to specific actions eg: Opening an image or link
+ * menu options allow addition of buttons to app bar
+ * To perform an intent:
+ *  - Get reference to the context
+ *  - create an Intent object- provide, activity/intent type(implicit intents)
+ *  - Pass any needed data by calling putExtra()
+ *  - call startActivity(on context object) and pass in the intent object.
+ *
  */
+
+
 class MainActivity : AppCompatActivity() {
     private var isLinearLayout = true
     private lateinit var recyclerView: RecyclerView
