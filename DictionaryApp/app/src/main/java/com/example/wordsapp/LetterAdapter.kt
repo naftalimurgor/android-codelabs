@@ -61,10 +61,14 @@ class LetterAdapter :
      * Replaces the content of an existing view with new data
      */
     override fun onBindViewHolder(holder: LetterViewHolder, position: Int) {
-        val item = list.get(position)
+
+        val item = list[position]
         holder.button.text = item.toString()
         holder.button.setOnClickListener {
             val context = holder.itemView.context
+            // intents are objects for passing messages across activities in your application
+            // Implicit intents: external(between activity in application and activities in other applications)
+            // Explicit: between activities
             val intent = Intent(context, DetailActivity::class.java)
             intent.putExtra(DetailActivity.LETTER, holder.button.text.toString())
             context.startActivity(intent)

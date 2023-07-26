@@ -24,3 +24,8 @@ The app demonstrates the use of Intents in two ways:
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+## Areas covered:
+1. Intents: https://developer.android.com/guide/components/intents-filters#kotlin
+2. Menus: https://developer.android.com/develop/ui/views/components/menus#kotlin
