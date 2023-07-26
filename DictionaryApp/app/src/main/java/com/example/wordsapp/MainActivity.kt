@@ -16,7 +16,10 @@
 package com.example.wordsapp
 
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -37,16 +40,47 @@ class MainActivity : AppCompatActivity() {
 
         recyclerView = binding.recyclerView
         // Sets the LinearLayoutManager of the recyclerview
-        recyclerView.layoutManager = LinearLayoutManager(this)
-        recyclerView.adapter = LetterAdapter()
+       chooseLayout()
     }
 
     private fun chooseLayout() {
-        if(isLinearLayout)
+        if (isLinearLayout)
             recyclerView.layoutManager = LinearLayoutManager(this)
         else recyclerView.layoutManager = GridLayoutManager(this, 4)
 
         recyclerView.adapter = LetterAdapter()
     }
 
+    private fun setIcon(menuItem: MenuItem?) {
+        if (menuItem == null)
+            return
+        // set menu icon based on the layout
+        menuItem.icon =
+            if (isLinearLayout)
+                ContextCompat.getDrawable(this, R.drawable.ic_linear_layout)
+            else
+                ContextCompat.getDrawable(this, R.drawable.ic_grid_layout)
+
+    }
+
+    // Inflate the options menu + perform any additional setup
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.layout_menu, menu)
+        val layoutButton = menu?.findItem(R.id.action_switch_layout)
+        // Calls code to set the icon based on the LinearLayoutManager of the RecyclerView
+        setIcon(layoutButton)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.action_switch_layout -> {
+                isLinearLayout = !isLinearLayout
+                chooseLayout()
+                setIcon(item)
+                return  true
+            }
+            else -> super.onOptionsItemSelected(item)
+        }
+    }
 }
