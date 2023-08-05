@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_icecreamsandwich.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/icecreamsandwich.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_white_box.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/white_box.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_oreo.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/oreo.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_gingerbread.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/gingerbread.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_kitkat.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/kitkat.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_lollipop.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/lollipop.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_honeycomb.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/honeycomb.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_bakery_back.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/bakery_back.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/menu_main_menu.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-anydpi-v26_ic_dessert_clicker_round.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-anydpi-v26/ic_dessert_clicker_round.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_froyo.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/froyo.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_eclair.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/eclair.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_nougat.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/nougat.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_jellybean.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/jellybean.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_donut.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/donut.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_marshmallow.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/marshmallow.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-anydpi-v26_ic_dessert_clicker.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-anydpi-v26/ic_dessert_clicker.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.android.dessertclicker.app-merged_res-34:/drawable_cupcake.xml.flat",
+        "source": "com.example.android.dessertclicker.app-main-36:/drawable/cupcake.xml"
+    }
+]

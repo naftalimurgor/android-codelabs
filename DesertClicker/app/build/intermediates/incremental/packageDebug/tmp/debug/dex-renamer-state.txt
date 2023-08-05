@@ -1,0 +1,4 @@
+#Sat Aug 05 10:01:31 EAT 2023
+base.0=/home/nmurgor/AndroidStudioProjects/DesertClicker/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
